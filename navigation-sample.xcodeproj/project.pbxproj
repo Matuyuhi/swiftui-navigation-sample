@@ -11,6 +11,7 @@
 		828202552AD6D8DE005632B3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 828202542AD6D8DE005632B3 /* ContentView.swift */; };
 		828202572AD6D8DF005632B3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 828202562AD6D8DF005632B3 /* Assets.xcassets */; };
 		8282025A2AD6D8DF005632B3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 828202592AD6D8DF005632B3 /* Preview Assets.xcassets */; };
+		828202612AD7B3EC005632B3 /* navigation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 828202602AD7B3EC005632B3 /* navigation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		828202542AD6D8DE005632B3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		828202562AD6D8DF005632B3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		828202592AD6D8DF005632B3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		828202602AD7B3EC005632B3 /* navigation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = navigation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				828202522AD6D8DE005632B3 /* navigation_sampleApp.swift */,
+				828202602AD7B3EC005632B3 /* navigation.swift */,
 				828202542AD6D8DE005632B3 /* ContentView.swift */,
 				828202562AD6D8DF005632B3 /* Assets.xcassets */,
 				828202582AD6D8DF005632B3 /* Preview Content */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				828202552AD6D8DE005632B3 /* ContentView.swift in Sources */,
+				828202612AD7B3EC005632B3 /* navigation.swift in Sources */,
 				828202532AD6D8DE005632B3 /* navigation_sampleApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
